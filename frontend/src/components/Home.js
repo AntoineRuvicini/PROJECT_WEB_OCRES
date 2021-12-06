@@ -6,10 +6,9 @@ export default class Home extends React.Component{
     render(){
 
         return(
-            <main class="home_main">
-                <img class="logo_home"src="Logo_Home.png" alt="logo_home"/>
-                <a href="#" class="home_boutton_ongletchimie">
-                </a>
+            <main>
+                <article class="home_boutton_ongletchimie">
+                </article>
                 <article class="home_boutton_ongletmaths">
                 </article>
                 <article class="home_boutton_ongletméthodologie">

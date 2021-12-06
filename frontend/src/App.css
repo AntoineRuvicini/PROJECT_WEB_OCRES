@@ -15,3 +15,108 @@
   justify-content: center;
   font-size: 3rem;
 }
+/* --------------------------------------------------- NavBar ---------------------------------------------------- */
+
+.etudiant_particulier{
+  color:white;
+  position:absolute;
+  left:150px;
+}
+
+.nav_boutton{
+  color:black;
+  background-color: white;
+  position:absolute;
+  text-decoration: none;
+  border:2px solid white;
+  border-radius: 80px;
+  padding-right:10px;
+  padding-left:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+.connexion_boutton{
+  left:1000px;
+}
+.inscription_boutton{
+  left:1150px;
+}
+.prendre_un_cours_boutton{
+  left:1300px;
+}
+
+/* --------------------------------------------------- Home ------------------------------------------------------ */
+
+.home_boutton_ongletchimie{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 540px;
+  top:372px;
+  border-radius: 50%;
+}
+
+.home_boutton_ongletmaths{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 608px;
+  top:295px;
+  border-radius: 50%;
+}
+
+.home_boutton_ongletméthodologie{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 710px;
+  top:260px;
+  border-radius: 50%;
+}
+
+.home_boutton_ongletphysique{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 813px;
+  top:295px;
+  border-radius: 50%;
+}
+
+.home_boutton_ongletprogrammation{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 878px;
+  top:372px;
+  border-radius: 50%;
+}
+
+
+.logo_home
+{
+  width: 700px;
+  position:absolute;
+  left:400px;
+}
+
+/* --------------------------------------------------------------------------------------------------------------- */
+
+.bas_de_page
+{
+  width: 100%;
+  height:250px;
+  margin-top: 800px;
+  background-color:white;
+}
+
+.bas_de_page_text{
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.reseaux_sociaux_boutton
+{
+  width:50px;
+}
